@@ -32,4 +32,4 @@ Schedule::call(function () {
 
     }
  
-})->dailyAt('22:09');
+})->daily();
